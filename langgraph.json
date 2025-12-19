@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "classes/CarAssistent.py:graph_app"
+  },
+  "env": ".env"
+}
